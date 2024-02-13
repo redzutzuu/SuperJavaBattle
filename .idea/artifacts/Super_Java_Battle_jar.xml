@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Super Java Battle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Super_Java_Battle_jar</output-path>
+    <root id="archive" name="Super Java Battle.jar">
+      <element id="module-output" name="Super Java Battle" />
+    </root>
+  </artifact>
+</component>
